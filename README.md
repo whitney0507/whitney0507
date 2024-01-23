@@ -1,5 +1,9 @@
 ### Hi there 👋
+## I am Whitney
 
+- I’m currently learning data analysis
+- I’m currently studying in APU
+- I’m currently looking for a work-life balance internship
 <!--
 **whitney0507/whitney0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
